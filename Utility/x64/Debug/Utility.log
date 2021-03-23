@@ -1,0 +1,10 @@
+﻿  ConsoleMenu.cpp
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\Utility\ConsoleMenu.cpp(47,24): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\Utility\ConsoleMenu.cpp(96,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Date.cpp
+  DateTime.cpp
+  InputFunctions.cpp
+  Strings.cpp
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\Utility\Strings.cpp(24,58): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Utility.vcxproj -> C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\x64\Debug\Utility.lib

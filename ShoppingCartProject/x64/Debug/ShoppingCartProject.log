@@ -1,0 +1,16 @@
+﻿  Cart.cpp
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\ShoppingCartProject\Cart.cpp(24,52): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\ShoppingCartProject\Cart.cpp(67,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\ShoppingCartProject\Cart.cpp(132,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Laptops.cpp
+  Main.cpp
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\ShoppingCartProject\Main.cpp(3,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Phones.cpp
+  Product.cpp
+  ShoppingController.cpp
+  Store.cpp
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\ShoppingCartProject\Store.cpp(61,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\ShoppingCartProject\Store.cpp(121,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\ShoppingCartProject\Cart.cpp(148): warning C4715: 'Cart::productsBasePrice': not all control paths return a value
+  ShoppingCartProject.vcxproj -> C:\Users\hharmanp3\source\repos\ShoppingCartProject_HarmanpreetSingh_AbhinShinyJamesAllil\x64\Debug\ShoppingCartProject.exe
